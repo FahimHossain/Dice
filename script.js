@@ -1,5 +1,4 @@
-var x = Math.random();
-x = x*6;
+var x = Math.random()*6;
 x = Math.floor(x)+1;
 console.log(x);
 
